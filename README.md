@@ -1,5 +1,5 @@
 # Markdown2Revealjs
-- Transfor markdown to revealjs
+- Transfer markdown to revealjs
 ## Usage
 - `index.md` is the default markdown filename.
 - `python md2reveal.py path/to/your/log/folder`
