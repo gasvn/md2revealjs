@@ -1,8 +1,9 @@
 # Markdown2Revealjs
 - Transfor markdown to revealjs
 ## Usage
+- `index.md` is the default markdown filename.
 - `python md2reveal.py path/to/your/log/folder`
-
+- Please refer to the  `demo` for more details
 ## Rules
 - use `!page!` to split each page
 - insert images to markdown: put images into subfolder `/imgs`
